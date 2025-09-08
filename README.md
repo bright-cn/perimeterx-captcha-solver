@@ -1,13 +1,13 @@
 # PerimeterX CAPTCHA 解决方案  
-[![Promo](https://github.com/luminati-io/LinkedIn-Scraper/raw/main/Proxies%20and%20scrapers%20GitHub%20bonus%20banner.png)](https://brightdata.com/products/web-unlocker/captcha-solver/perimeterx)
+[![Promo](https://github.com/luminati-io/LinkedIn-Scraper/raw/main/Proxies%20and%20scrapers%20GitHub%20bonus%20banner.png)](https://www.bright.cn/products/web-unlocker/captcha-solver/perimeterx)
 
-轻松利用 Bright Data 的先进技术绕过 PerimeterX CAPTCHA。通过机器学习算法、[自动 IP 轮换](https://brightdata.com/solutions/rotating-proxies)以及强大的代理网络基础设施，确保无缝稳定地访问目标网站。  
-Bright Data 的 CAPTCHA Solver 集成在我们的 [**Scraping Browser**](https://brightdata.com/products/scraping-browser) 和 [**Web Unlocker API**](https://brightdata.com/products/web-unlocker) 中，为应对最复杂的 CAPTCHA 挑战提供一站式解决方案。  
+轻松利用 Bright Data 的先进技术绕过 PerimeterX CAPTCHA。通过机器学习算法、[自动 IP 轮换](https://www.bright.cn/solutions/rotating-proxies)以及强大的代理网络基础设施，确保无缝稳定地访问目标网站。  
+Bright Data 的 CAPTCHA Solver 集成在我们的 [**Scraping Browser**](https://www.bright.cn/products/scraping-browser) 和 [**Web Unlocker API**](https://www.bright.cn/products/web-unlocker) 中，为应对最复杂的 CAPTCHA 挑战提供一站式解决方案。  
 
 ## 功能特色  
 - **快速解决 CAPTCHA**：自动、高准确度且高速地解决 PerimeterX CAPTCHA。  
 - **IP 轮换**：通过自动重试和动态 IP 调整来避免封禁。  
-- **浏览器指纹**：模拟真实用户行为，[绕过复杂的机器人检测](https://brightdata.com/blog/web-data/anti-scraping-techniques)。  
+- **浏览器指纹**：模拟真实用户行为，[绕过复杂的机器人检测](https://www.bright.cn/blog/web-data/anti-scraping-techniques)。  
 - **JavaScript 渲染**：适配 JavaScript 密集型网站的动态内容。  
 - **全球地域覆盖**：精准定位解锁任意地区的内容。  
 - **无缝集成**：可与 Puppeteer、Playwright 和 Selenium 等工具完美兼容。  
@@ -29,7 +29,7 @@ Bright Data 的 CAPTCHA Solver 因其卓越的可靠性和性能，深受开发�
 - 自动重试和动态 IP 调整，保证数据采集不中断。  
 
 > **专家提示 💡**  
->> 已经有自己的 CAPTCHA 解决方案？可结合我们的 [Puppeteer 代理](https://brightdata.com/integration/puppeteer)、[Playwright 代理](https://brightdata.com/integration/playwright)和 [Selenium 代理](https://brightdata.com/integration/selenium)，以减少 CAPTCHA 出现概率。
+>> 已经有自己的 CAPTCHA 解决方案？可结合我们的 [Puppeteer 代理](https://www.bright.cn/integration/puppeteer)、[Playwright 代理](https://www.bright.cn/integration/playwright)和 [Selenium 代理](https://www.bright.cn/integration/selenium)，以减少 CAPTCHA 出现概率。
 
 ## 工作原理  
 Bright Data 的 CAPTCHA Solver 集成在 **Scraping Browser** 和 **Web Unlocker** 中，让 CAPTCHA 解决过程变得简单高效。  
@@ -45,21 +45,21 @@ CAPTCHA Solver 会自动实时检测并解决 CAPTCHA。只需启用该功能，
 
 ## 支持的 CAPTCHA 类型  
 Bright Data 的 CAPTCHA Solver 支持多种类型的 CAPTCHA，包括：  
-- [**DataDome**](https://brightdata.com/products/web-unlocker/captcha-solver/datadome)  
-- [**reCAPTCHA**](https://brightdata.com/products/web-unlocker/captcha-solver/recaptcha)  
-- [**Click Captcha**](https://brightdata.com/products/web-unlocker/captcha-solver/click-captcha)  
-- [**Cloudflare**](https://brightdata.com/products/web-unlocker/captcha-solver/Cloudflare)  
-- [**PerimeterX**](https://brightdata.com/products/web-unlocker/captcha-solver/perimeterx)  
-- [**SimpleCaptcha**](https://brightdata.com/products/web-unlocker/captcha-solver/simplecaptcha)  
-- [**FunCaptcha**](https://brightdata.com/products/web-unlocker/captcha-solver/funcaptcha)  
-- [**Cloudflare Turnstile**](https://brightdata.com/products/web-unlocker/captcha-solver/cloudflare-turnstile)  
-- [**AWS WAF Captcha**](https://brightdata.com/products/web-unlocker/captcha-solver/aws-waf-captcha)  
-- [**GeeTest CAPTCHA**](https://brightdata.com/products/web-unlocker/captcha-solver/geetest-captcha)  
-- [**KeyCAPTCHA**](https://brightdata.com/products/web-unlocker/captcha-solver/keycaptcha)  
-- [**Puzzle CAPTCHA**](https://brightdata.com/products/web-unlocker/captcha-solver/puzzle-captcha)  
-- [**Yandex CAPTCHA**](https://brightdata.com/products/web-unlocker/captcha-solver/yandex-captcha)  
-- [**Image CAPTCHA**](https://brightdata.com/products/web-unlocker/captcha-solver/image-captcha)  
-- [**Text CAPTCHA**](https://brightdata.com/products/web-unlocker/captcha-solver/text-captcha)  
+- [**DataDome**](https://www.bright.cn/products/web-unlocker/captcha-solver/datadome)  
+- [**reCAPTCHA**](https://www.bright.cn/products/web-unlocker/captcha-solver/recaptcha)  
+- [**Click Captcha**](https://www.bright.cn/products/web-unlocker/captcha-solver/click-captcha)  
+- [**Cloudflare**](https://www.bright.cn/products/web-unlocker/captcha-solver/Cloudflare)  
+- [**PerimeterX**](https://www.bright.cn/products/web-unlocker/captcha-solver/perimeterx)  
+- [**SimpleCaptcha**](https://www.bright.cn/products/web-unlocker/captcha-solver/simplecaptcha)  
+- [**FunCaptcha**](https://www.bright.cn/products/web-unlocker/captcha-solver/funcaptcha)  
+- [**Cloudflare Turnstile**](https://www.bright.cn/products/web-unlocker/captcha-solver/cloudflare-turnstile)  
+- [**AWS WAF Captcha**](https://www.bright.cn/products/web-unlocker/captcha-solver/aws-waf-captcha)  
+- [**GeeTest CAPTCHA**](https://www.bright.cn/products/web-unlocker/captcha-solver/geetest-captcha)  
+- [**KeyCAPTCHA**](https://www.bright.cn/products/web-unlocker/captcha-solver/keycaptcha)  
+- [**Puzzle CAPTCHA**](https://www.bright.cn/products/web-unlocker/captcha-solver/puzzle-captcha)  
+- [**Yandex CAPTCHA**](https://www.bright.cn/products/web-unlocker/captcha-solver/yandex-captcha)  
+- [**Image CAPTCHA**](https://www.bright.cn/products/web-unlocker/captcha-solver/image-captcha)  
+- [**Text CAPTCHA**](https://www.bright.cn/products/web-unlocker/captcha-solver/text-captcha)  
 
 ## 高级自定义  
 [Bright Data 的 CAPTCHA Solver](https://github.com/luminati-io/Captcha-solver) 支持高级自定义，可根据特定使用场景微调解题逻辑。  
@@ -101,4 +101,4 @@ Bright Data 的 CAPTCHA Solver 支持多种类型的 CAPTCHA，包括：
 ---  
 
 ## **告别 PerimeterX CAPTCHA 的烦恼**  
-立即开始免费试用，体验 Bright Data 带来的 [PerimeterX CAPTCHA 轻松解决](https://brightdata.com/products/web-unlocker/captcha-solver/perimeterx)！# perimeterx-captcha-solver
+立即开始免费试用，体验 Bright Data 带来的 [PerimeterX CAPTCHA 轻松解决](https://www.bright.cn/products/web-unlocker/captcha-solver/perimeterx)！# perimeterx-captcha-solver
